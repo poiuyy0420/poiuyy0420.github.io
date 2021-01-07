@@ -1,16 +1,16 @@
 # Site settings
-title: Mauricio Urraco
+title: Kwon hye jin
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://poiuyy0420.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Software Engineer
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+username: Kwon hye jin
+user_description: æ»≥Á«œººø‰, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
+user_title: Back-end Developer
+email: poiuyy0420@naver.com
+# twitter_username: poiuyy0420
+# github_username:  poiuyy0420
+# gplus_username:  poiuyy0420
 
 exclude: ['package.json', 'src' , 'node_modules']
