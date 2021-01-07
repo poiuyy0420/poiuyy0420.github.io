@@ -3303,7 +3303,7 @@ body {
 	font-size:100%;
 	line-height:1.5;
 	color:#555;
-	font-family: 'Antic Slab' Nanum Gothic,serif
+	font-family: Nanum Gothic, verdana, sans-serif;
 }
 article,aside,figcaption,figure,footer,header,nav,section {
 	display:block
