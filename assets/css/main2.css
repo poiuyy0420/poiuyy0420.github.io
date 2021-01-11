@@ -4,3 +4,8 @@
 .css-orange {
     color: rgb(250 167 42);
 }
+
+.css-img {
+    width: 60px!important;
+    height: auto;
+}
