@@ -6,7 +6,8 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Kwon hye jin
-user_description: 안녕하세요 :)<br> 3년차 Java Back-end 개발자 입니다.<br><span class="css-orange"><b>Spring, PostgreSQL, AWS </b></span> 기반의 서비스에서 개발 및 운영 경험이 있습니다.<br>하나의 기술과 언어에만 고립되지 않는 개발자로 성장하는 것이 목표입니다.
+user_description: 안녕하세요 :)<br> 비지니스 성장에 기여하는 일을 좋아하는 Java Back-end 개발자 입니다.<br><span class="css-orange"><b>Spring, PostgreSQL, AWS </b></span> 기반의 서비스에서 개발 및 운영 경험이 있습니다.<br>하나의 기술과 언어에만 고립되지 않는 개발자로 성장하는 것이 목표입니다.
+
 user_title: Back-end Developer
 email: poiuyy0420@naver.com
 # twitter_username: poiuyy0420
